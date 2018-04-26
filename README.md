@@ -3,12 +3,9 @@
 This app is a GUI client that can be used with any REST API that implements [the list app API spec](https://documenter.getpostman.com/view/1161985/RVu4GVFE).
 
 
-
-<!-- checked and creation oddity -->
-
 # Running the app
 
-To run this app, you'll need to point it at a noteful API. By default, this app expects to find the API running at `http://localhost:8080`.  
+To run this app, you'll need to point it at a listful app API. By default, this app expects to find the API running at `http://localhost:8080`.  
 
 If you need to point it elsewhere, you can do this by modifying `<meta name="API_ROOT" content="http://localhost:8080">` in the `index.html` file.
 
