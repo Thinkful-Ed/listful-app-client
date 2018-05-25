@@ -1,6 +1,6 @@
 # Listful App Client
 
-This app is a GUI client that can be used with any REST API that implements [the list app API spec](https://documenter.getpostman.com/view/1161985/RVu4GVFE).
+This app is a GUI client that can be used with any REST API that implements [the list app API spec](https://documenter.getpostman.com/view/2364768/listful-app-api/RW1aJfDp#b082c957-558e-42aa-9ea0-f0bc22c24538).
 
 
 # Running the app
